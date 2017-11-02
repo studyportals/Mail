@@ -1,0 +1,23 @@
+{
+    "name": "studyportals/mail",
+    "description": "Mail classes for studyportals",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Rob van den Hout",
+            "email": "vdhout@studyportals.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "StudyPortals\\Mail\\": "src/"
+        }
+    },
+    "require": {
+        "aws/aws-sdk-php": "^3.36",
+        "studyportals/exception": "^1.0"
+    }
+}
