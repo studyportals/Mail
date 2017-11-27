@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "d7cfa7a1d9a2550f8844eb6c1c293ab3",
-    "content-hash": "8c75055e74130a3d1087925b0109635b",
+    "hash": "b65c88284863b6eb9607defe56381427",
+    "content-hash": "f917a0fae0d97623dc8ae6616aec8498",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.36.35",
+            "version": "3.40.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "cb1cd051ef07dfbe6b181e552378e7a1673b228c"
+                "reference": "04a19849652687e8c535217d0af4de6203107979"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/cb1cd051ef07dfbe6b181e552378e7a1673b228c",
-                "reference": "cb1cd051ef07dfbe6b181e552378e7a1673b228c",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/04a19849652687e8c535217d0af4de6203107979",
+                "reference": "04a19849652687e8c535217d0af4de6203107979",
                 "shasum": ""
             },
             "require": {
@@ -85,7 +85,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2017-11-01 23:08:48"
+            "time": "2017-11-27 09:20:45"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -375,16 +375,16 @@
         },
         {
             "name": "studyportals/exception",
-            "version": "v1.0.0",
+            "version": "v2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/studyportals/Exception.git",
-                "reference": "e6529dc4743ec4c249773be285e0ea386bcdb867"
+                "reference": "77d9c717df185a5ea3438e861a0c0524b07f88f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/studyportals/Exception/zipball/e6529dc4743ec4c249773be285e0ea386bcdb867",
-                "reference": "e6529dc4743ec4c249773be285e0ea386bcdb867",
+                "url": "https://api.github.com/repos/studyportals/Exception/zipball/77d9c717df185a5ea3438e861a0c0524b07f88f5",
+                "reference": "77d9c717df185a5ea3438e861a0c0524b07f88f5",
                 "shasum": ""
             },
             "type": "library",
@@ -404,7 +404,7 @@
                 }
             ],
             "description": "Default exceptions and ExceptionHandler for studyportals",
-            "time": "2017-11-02 11:13:20"
+            "time": "2017-11-27 10:29:50"
         }
     ],
     "packages-dev": [],
